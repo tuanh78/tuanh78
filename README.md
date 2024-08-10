@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning NODEJS, Docker and CI/CD 😄
 - 💬 Ask me about everything 🤔
 - 📫 Contact me via email: <a href="mailto:phamtuanh2000@gmail.com?subject=Hello Trần Tùng">phamtuanh2000@gmail.com</a>.
-- 📄 See my CV: <a target="_blank" href="https://drive.google.com/file/d/1OXYUOhjVjMfu5_GzBW3WqcxSpOPpUhQm/view?usp=sharing">here</a>.
+- 📄 See my CV: <a target="_blank" href="https://drive.google.com/file/d/1g4t5WS6pYHo0LL5DVO4lb7IoR2Ba0P7e/view?usp=sharing">here</a>.
 
 
 
