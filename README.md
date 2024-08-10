@@ -1,6 +1,6 @@
 <!--
 
-**ngocdung/ngocdung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tuanh78/tuanh78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Thanks to: https://gprm.itsvg.in
 Here are some ideas to get you started:
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👋 Hi there, my name is Huy Tùng (thtung).
+## 👋 Hi there, my name is Tu Anh (ptanh).
 
 <div align="center">
  
